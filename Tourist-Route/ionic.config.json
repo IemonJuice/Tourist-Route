@@ -1,0 +1,7 @@
+{
+  "name": "Tourist-Route",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
