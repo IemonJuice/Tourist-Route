@@ -1,8 +1,11 @@
 ion-tab-button{
   border-radius: 10px;
   transition-duration: 300ms;
-}
 
+}
+ion-tab-bar{
+  padding: 10px;
+}
 ion-tab-button:hover {
   transition-duration: 600ms;
   background-color: #000000;
